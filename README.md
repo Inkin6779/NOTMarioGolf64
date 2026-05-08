@@ -1,3 +1,2 @@
-Base for NES Games
+Super Mario Kart 64
 ---
-This is a template of producing NES games in Project School Stash
